@@ -1,5 +1,5 @@
 
-# Smart Tracker (Flutter + Supabase)
+# MindLedger (Flutter + Supabase)
 
 Behavior-first expense tracking with manual entry, message parsing, and insights.
 
